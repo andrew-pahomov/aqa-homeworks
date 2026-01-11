@@ -19,7 +19,7 @@
 1. Добавьте в каталог `artifacts` целевой сервис [app-ibank-build-for-testers.jar](app-ibank-build-for-testers.jar).
 1. Создайте публичный репозиторий на GitHub и свяжите свой локальный репозиторий с удалённым.
 1. Сделайте пуш — удостоверьтесь, что ваш код появился на GitHub.
-1. Выполните интеграцию проекта с Github Actions ([инструкция](../github-actions-integration)) или Appveyor ([инструкция](https://github.com/netology-code/aqa-homeworks/tree/master/api-ci#appveyor)) на выбор, удостоверьтесь что автотесты в CI выполняются.      
+1. Выполните интеграцию проекта с Github Actions ([инструкция](../github-actions-integration)) или AppVeyor ([инструкция](../appveyor-integration)) на выбор, удостоверьтесь что автотесты в CI выполняются.      
 1. Поставьте бейджик сборки вашего проекта в файл README.md.
 1. Ссылку на ваш проект отправьте в личном кабинете на сайте [netology.ru](https://netology.ru).
 1. Задачи, отмеченные как необязательные, можно не сдавать, это не повлияет на получение зачёта.
